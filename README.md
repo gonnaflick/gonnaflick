@@ -1,8 +1,12 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Jimenez
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alex Jimenez
+
+======
 
 ### I'm a Computer Systems Engineer in Hardware
 
-    Much of what I’ve learned is thanks to the members of the community who have shared their knowledge as part of the Open Source ideology and the benefit of society. In the future, I would like to give back in the same way to the community that helped me get to where I am today.
+---
+
+I am passionate about open source, community-driven projects, and the sharing of knowledge for the betterment of society. Looking forward to giving back to the community that has helped shape my career.
 
 ✉️  You can contact me at [gonnaflick@hotmail.com](mailto:gonnaflick@hotmail.com)
 
