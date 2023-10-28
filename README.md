@@ -1,10 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alex Jimenez
-
-======
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alex Jimenez
 
 ### I'm a Computer Systems Engineer in Hardware
-
----
 
 I am passionate about open source, community-driven projects, and the sharing of knowledge for the betterment of society. Looking forward to giving back to the community that has helped shape my career.
 
